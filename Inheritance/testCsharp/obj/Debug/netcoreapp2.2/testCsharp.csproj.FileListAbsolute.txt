@@ -1,0 +1,10 @@
+C:\Users\Anjana\source\repos\testCsharp\testCsharp\bin\Debug\netcoreapp2.2\testCsharp.deps.json
+C:\Users\Anjana\source\repos\testCsharp\testCsharp\bin\Debug\netcoreapp2.2\testCsharp.runtimeconfig.json
+C:\Users\Anjana\source\repos\testCsharp\testCsharp\bin\Debug\netcoreapp2.2\testCsharp.runtimeconfig.dev.json
+C:\Users\Anjana\source\repos\testCsharp\testCsharp\bin\Debug\netcoreapp2.2\testCsharp.dll
+C:\Users\Anjana\source\repos\testCsharp\testCsharp\bin\Debug\netcoreapp2.2\testCsharp.pdb
+C:\Users\Anjana\source\repos\testCsharp\testCsharp\obj\Debug\netcoreapp2.2\testCsharp.csprojAssemblyReference.cache
+C:\Users\Anjana\source\repos\testCsharp\testCsharp\obj\Debug\netcoreapp2.2\testCsharp.AssemblyInfoInputs.cache
+C:\Users\Anjana\source\repos\testCsharp\testCsharp\obj\Debug\netcoreapp2.2\testCsharp.AssemblyInfo.cs
+C:\Users\Anjana\source\repos\testCsharp\testCsharp\obj\Debug\netcoreapp2.2\testCsharp.dll
+C:\Users\Anjana\source\repos\testCsharp\testCsharp\obj\Debug\netcoreapp2.2\testCsharp.pdb
